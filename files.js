@@ -1,0 +1,1 @@
+ages=G.loadImages,F.popup=G.popup,F.notranslate=G.notranslate,F.doubleclick=G.doubleclick,F.ripple=G.ripple,F.toc=G.toc,F.anchor=G.anchor,F.analytics=G.analytics,F.clipboard=G.clipboard,F.snackbar=G.snackbar,F.accordion=G.accordion,F.toolbar
