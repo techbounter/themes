@@ -1,0 +1,18 @@
+@font-face { font-family: 'SolaimanLipi'; src: url('SolaimanLipi.eot'); src: url('SolaimanLipi.woff') format('woff'), url('SolaimanLipi.ttf') format('truetype'), url('SolaimanLipi.svg#SolaimanLipiNormal') format('svg'), url('SolaimanLipi.eot?#iefix') format('embedded-opentype'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'Kalpurush'; src: url('Kalpurush.eot'); src: url('Kalpurush.woff') format('woff'), url('Kalpurush.ttf') format('truetype'), url('Kalpurush.svg#Kalpurush') format('svg'), url('Kalpurush.eot?#iefix') format('embedded-opentype'); font-weight: normal; font-style: normal; }
+
+
+
+@font-face { font-family: "Shurjo"; font-display: swap; font-style: normal; font-weight: 400; src: url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_400_v2-6a682f6f610beeda14f0.woff2) format('woff2'), url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_400_v2-f516035cb806da4a249e.woff) format("woff"), url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_400_v2-46e441a492e5db01a626.ttf) format("truetype"); } @font-face { font-family: "Shurjo"; font-display: swap; font-weight: 700; font-style: normal; src: url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_700_v2-ef9e058ccc3a98d85030.woff2) format("woff2"), url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_700_v2-72cba63e779d86520525.woff) format('woff'), url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_700_v2-7084d97ccd992205d87b.ttf) format('truetype'), url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_700_v2-6f30c4f7cce4d463f8e4.eot) format("embedded-opentype"); }
+
+
+
+@font-face {
+    font-family: 'Li Sheikh Hasina Unicode';
+    src: url('LiSheikhHasinaUnicode.woff2') format('woff2'),
+        url('LiSheikhHasinaUnicode.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
